@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="389" height="389" viewBox="0 0 389 389">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.523" y1="0.294" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f07a7b" stop-opacity="0"/>
+      <stop offset="0.498" stop-color="#f07a7b" stop-opacity="0.78"/>
+      <stop offset="1" stop-color="#f07a7b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6315" data-name="Group 6315" transform="translate(-20 -25)">
+    <circle id="Ellipse_2225" data-name="Ellipse 2225" cx="194.5" cy="194.5" r="194.5" transform="translate(20 25)" fill="url(#linear-gradient)"/>
+    <g id="noun-add-user-1867438" transform="translate(78.446 158.586)">
+      <path id="Path_12616" data-name="Path 12616" d="M364.748,263.53a31.218,31.218,0,1,0,31.218,31.218,31.263,31.263,0,0,0-31.218-31.218Zm14.69,36.726h-9.182v9.182a5.509,5.509,0,1,1-11.018,0v-9.182h-9.182a5.509,5.509,0,0,1,0-11.019h9.182v-9.182a5.509,5.509,0,0,1,11.019,0v9.182h9.182a5.509,5.509,0,1,1,0,11.018Z" transform="translate(-191.969 -191.969)" fill="#fff"/>
+      <path id="Path_12617" data-name="Path 12617" d="M153.459,300.371H105.825A19.255,19.255,0,0,1,86.469,281.53v-.514a50.5,50.5,0,0,1,50.464-50.426,49.85,49.85,0,0,1,21.412,4.812,36.7,36.7,0,0,0-4.885,64.97Z" transform="translate(0 -166.373)" fill="#fff"/>
+      <path id="Path_12618" data-name="Path 12618" d="M262.581,36.67a20.2,20.2,0,1,1-20.2-20.2A20.236,20.236,0,0,1,262.581,36.67Z" transform="translate(-105.449)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

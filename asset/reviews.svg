@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.063" height="26.692" viewBox="0 0 29.063 26.692">
+  <defs>
+    <filter id="Path_11103" x="6.717" y="1.976" width="21.161" height="18.395" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11104" x="6.717" y="3.161" width="21.161" height="18.395" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11106" x="6.717" y="5.531" width="21.161" height="18.395" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11107" x="0" y="0" width="29.063" height="26.692" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#fff" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11105" x="6.717" y="4.346" width="21.161" height="18.395" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#fff" flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_6303" data-name="Group 6303" transform="translate(-5.27 -200.034)">
+    <g transform="matrix(1, 0, 0, 1, 5.27, 200.03)" filter="url(#Path_11103)">
+      <path id="Path_11103-2" data-name="Path 11103" d="M19.2,10.4h2.766a.2.2,0,0,0,0-.4H19.2a.2.2,0,0,0,0,.4Z" transform="translate(-3.28 -2.02)" fill="#ec5958"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 5.27, 200.03)" filter="url(#Path_11104)">
+      <path id="Path_11104-2" data-name="Path 11104" d="M19.2,13.4h2.766a.2.2,0,1,0,0-.4H19.2a.2.2,0,0,0,0,.4Z" transform="translate(-3.28 -3.84)" fill="#ec5958"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 5.27, 200.03)" filter="url(#Path_11106)">
+      <path id="Path_11106-2" data-name="Path 11106" d="M19.2,19.4h2.766a.2.2,0,0,0,0-.4H19.2a.2.2,0,0,0,0,.4Z" transform="translate(-3.28 -7.47)" fill="#ec5958"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 5.27, 200.03)" filter="url(#Path_11107)">
+      <path id="Path_11107-2" data-name="Path 11107" d="M12.47,5H8.519a.2.2,0,0,0,0,.4H12.47a.2.2,0,0,1,.2.2V13.1a.2.2,0,0,1-.2.2H2.593a.2.2,0,0,1-.2-.2V5.593a.2.2,0,0,1,.2-.2H7.136v6.914a.2.2,0,0,0,.4,0V5.2a.2.2,0,0,0-.2-.2H2.593A.593.593,0,0,0,2,5.593V13.1a.593.593,0,0,0,.593.593H12.47a.593.593,0,0,0,.593-.593V5.593A.593.593,0,0,0,12.47,5Z" transform="translate(7 1)"/>
+    </g>
+    <path id="Ellipse_2274" data-name="Ellipse 2274" d="M7.816.957C8.888.958,9.908.944,10.837.92S12.6.861,13.3.818,14.572.723,14.962.666s.6-.12.6-.187S15.334.35,14.935.293,13.962.184,13.254.141s-1.549-.078-2.482-.1S8.817,0,7.745,0,5.654.015,4.729.039,2.972.1,2.275.142,1.016.237.63.294s-.6.12-.593.186S.263.608.658.665s.965.109,1.668.152,1.54.078,2.468.1S6.744.957,7.816.957Z" transform="translate(12.203 215.618)" fill="#ec5958" opacity="0.23"/>
+    <circle id="Ellipse_2277" data-name="Ellipse 2277" cx="4.5" cy="4.5" r="4.5" transform="translate(13 206)" fill="#ec5958" opacity="0.07"/>
+    <g transform="matrix(1, 0, 0, 1, 5.27, 200.03)" filter="url(#Path_11105)">
+      <path id="Path_11105-2" data-name="Path 11105" d="M19.2,16.4h2.766a.2.2,0,0,0,0-.4H19.2a.2.2,0,0,0,0,.4Z" transform="translate(-3.28 -5.65)" fill="#ec5958"/>
+    </g>
+  </g>
+</svg>
